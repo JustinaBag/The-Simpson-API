@@ -1,0 +1,66 @@
+[
+    {
+        "id":0,
+        "name": "Homer",
+        "position": "Junior JavaScript Dev", 
+        "team" : "awesomeVTMC",
+        "img": "https://upload.wikimedia.org/wikipedia/lt/0/02/Homer_Simpson_2006.png",
+        "description": "Homer Jay Simpson (born May 12 1956) is the main protagonist and one of the five main characters of The Simpsons series (or show). He is the spouse of Marge Simpson and father of Bart, Lisa and Maggie Simpson. Homer is overweight (said to be ~240 pounds), lazy, and often ignorant to the world around him."
+    }, 
+    {
+        "id":1,
+        "name": "Bart",
+        "position": "Middle JavaScript Dev", 
+        "team" : "awesomeVTMC",
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+        "description": "Bart is the mischievous, rebellious, misunderstood, disruptive and potentially dangerous oldest child. He is the only son of Homer and Marge Simpson, and the older brother of Lisa and Maggie. He also has been nicknamed Cosmo, after discovering a comet in Bart's Comet."
+    }, 
+    {
+        "id":2,
+        "name": "Liza",
+        "position": "Senior JavaScript Dev", 
+        "team" : "awesomeVTMC",
+        "img": "https://www.dhammawiki.com/images/e/ec/Lisa_Simpson.png",
+        "description": "Lisa's high intellect and left-wing political stance creates a barrier between her and other children her age; therefore she is a bit of a loner and social outcast. Lisa is a vegetarian, a strong environmentalist, a feminist, and a Buddhist."
+    }, 
+    {
+        "id":3,
+        "name": "Marge",
+        "position": "Intern JavaScript Dev", 
+        "team" : "awesomeVTMC",
+        "img": "https://pngimg.com/uploads/simpsons/simpsons_PNG57.png",
+        "description": "Marge is the moralistic force in her family and often provides a grounding voice in the midst of her family's antics by trying to maintain order in the Simpson household. She is often portrayed as a stereotypical television mother and is often included on lists of top TV moms."
+    },
+    {
+        "id":4,
+        "name": "Bart",
+        "position": "Middle JavaScript Dev", 
+        "team" : "awesomeVTMC",
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+        "description": "Bart is the mischievous, rebellious, misunderstood, disruptive and potentially dangerous oldest child. He is the only son of Homer and Marge Simpson, and the older brother of Lisa and Maggie. He also has been nicknamed Cosmo, after discovering a comet in Bart's Comet."
+    }, 
+    {
+        "id":5,
+        "name": "Bart",
+        "position": "Middle JavaScript Dev", 
+        "team" : "awesomeVTMC",
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+        "description": "Bart is the mischievous, rebellious, misunderstood, disruptive and potentially dangerous oldest child. He is the only son of Homer and Marge Simpson, and the older brother of Lisa and Maggie. He also has been nicknamed Cosmo, after discovering a comet in Bart's Comet."
+    }, 
+    {
+        "id":6,
+        "name": "Bart",
+        "position": "Middle JavaScript Dev", 
+        "team" : "awesomeVTMC",
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+        "description": "Bart is the mischievous, rebellious, misunderstood, disruptive and potentially dangerous oldest child. He is the only son of Homer and Marge Simpson, and the older brother of Lisa and Maggie. He also has been nicknamed Cosmo, after discovering a comet in Bart's Comet."
+    },
+    {
+        "id":7,
+        "name": "Bart",
+        "position": "Middle JavaScript Dev", 
+        "team" : "awesomeVTMC",
+        "img": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+        "description": "Bart is the mischievous, rebellious, misunderstood, disruptive and potentially dangerous oldest child. He is the only son of Homer and Marge Simpson, and the older brother of Lisa and Maggie. He also has been nicknamed Cosmo, after discovering a comet in Bart's Comet."
+    }
+]
